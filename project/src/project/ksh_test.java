@@ -6,6 +6,7 @@ public class ksh_test {
 		// TODO Auto-generated method stub
 		System.out.println("±è½ÂÈ¯ Å×½ºÆ®");
 
+		System.out.println("Å×½ºÆ®2");
 	}
 
 }
